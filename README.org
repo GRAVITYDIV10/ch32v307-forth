@@ -1,0 +1,17 @@
+* ch32v307-forth
+
+forth on ch32v307
+
+* board
+
+YDCH32V307VCT6
+
+* virtual memory mapping
+
+I modify the memory access word, we can access a virtual mapping for spi flash and i2c eeprom
+
+* license
+
+mit
+
+
